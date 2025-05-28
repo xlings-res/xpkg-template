@@ -12,3 +12,7 @@
 ```bash
 xlings install xpkgname
 ```
+
+**Refs**
+
+- xxx
