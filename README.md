@@ -2,8 +2,9 @@
 
 > ...
 
-| [工具](https://github.com/d2learn/xlings) - [包索引仓库](https://github.com/d2learn/xim-pkgindex) - [包索引网站](https://d2learn.github.io/xim-pkgindex) - [论坛交流](https://forum.d2learn.org) - [d2learn开源](https://github.com/d2learn) |
+| [xpkg文档]() - [xlings工具](https://github.com/d2learn/xlings) - [包索引仓库](https://github.com/d2learn/xim-pkgindex) - [包索引网站](https://d2learn.github.io/xim-pkgindex) - [论坛交流](https://forum.d2learn.org/category/9/xlings) - [d2learn开源](https://github.com/d2learn) |
 |---|
+| 如果安装时遇到问题, 可以把问题/报错发到论坛[xlings版块](https://forum.d2learn.org/category/9/xlings), 也欢迎根据[xpkg文档](https://xlings.d2learn.org/documents/xpkg/intro.html)修复问题并提交PR 🚀|
 
 <details>
   <summary>点击查看xlings安装命令</summary>
